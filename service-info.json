@@ -1,0 +1,6 @@
+{
+    "service_name": "golang_app_service",
+    "description": "Golang app service",
+    "package_path": "",
+    "service_path": ""
+}
